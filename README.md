@@ -4,6 +4,9 @@ First import node module using commamd
 
 ## npm i
 
+For running project use command 
+## npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
